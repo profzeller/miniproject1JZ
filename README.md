@@ -1,5 +1,10 @@
 # miniproject1JZ
 
+INF601 Advanced Programing with Python 
+Jason Zeller
+
+
+
 ## Description
 This project will be using the packages NumPy and Matplotlib in order to create 5 graphs that output as PNG files.
 
